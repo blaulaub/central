@@ -1,0 +1,3 @@
+[submodule "projects/railwayEmpireGuide"]
+	path = projects/railwayEmpireGuide
+	url = git@github.com:blaulaub/railwayEmpireGuide.git
