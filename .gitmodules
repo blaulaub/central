@@ -4,3 +4,6 @@
 [submodule "projects/lagrange-points"]
 	path = projects/lagrange-points
 	url = git@github.com:blaulaub/lagrange-points.git
+[submodule "knowledge/katas"]
+	path = knowledge/katas
+	url = git@github.com:blaulaub/katas.git
