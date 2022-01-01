@@ -1,3 +1,6 @@
 [submodule "projects/railwayEmpireGuide"]
 	path = projects/railwayEmpireGuide
 	url = git@github.com:blaulaub/railwayEmpireGuide.git
+[submodule "projects/lagrange-points"]
+	path = projects/lagrange-points
+	url = git@github.com:blaulaub/lagrange-points.git
